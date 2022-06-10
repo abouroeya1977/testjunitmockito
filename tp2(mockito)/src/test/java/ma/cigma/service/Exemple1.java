@@ -14,6 +14,7 @@ import ma.cigma.dao.DaoImp;
 @ExtendWith(MockitoExtension.class)
 public class Exemple1 {
 
+	//Mock object
 	@Mock
 	DaoImp dao;
 
